@@ -1,2 +1,2 @@
 # myNote
-this is  test massage
+this is the test message
