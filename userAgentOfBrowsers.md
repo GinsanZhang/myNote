@@ -1,6 +1,6 @@
 #各个浏览器的userAgent
 #前言
-最早的流量器：[Cello](https://en.wikipedia.org/wiki/Cello_(web_browser) "Cello"),运行在window3.1。
+最早的浏览器：[Cello](https://en.wikipedia.org/wiki/Cello_(web_browser) "Cello"),运行在window3.1。
 
 最早支持图片和文字的浏览器：[Mosaic](https://en.wikipedia.org/wiki/Mosaic_(web_browser) "wiki") （马赛克） 由美国国家超级计算机应用中心- National Center for Supercomputing Applications (NCSA)研发。之后出现了Mozilla（相比于Mosaic支持Frame，后更名Netscape）、IE、Firefox（Gecko）、Konqueror（KHTML，linux）、Safari（webkit）、chrome（webkit）
 
